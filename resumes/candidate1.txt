@@ -1,0 +1,4 @@
+Name: Sanjeevitha D
+Email: sanjeevitha@gmail.com
+Skills: Python, SQL, HTML, CSS, Data Analysis
+Experience: 3 years
