@@ -2,9 +2,9 @@
     "candidate_name": "Sanjeevitha D",
     "email": "sanjeevitha@gmail.com",
     "matched_skills": [
-        "python",
         "sql",
-        "data analysis"
+        "data analysis",
+        "python"
     ],
     "total_experience": 3,
     "match_score": 82.5,
