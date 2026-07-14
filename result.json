@@ -1,0 +1,44 @@
+[
+  {
+    "candidate": {
+      "email": "jane.doe@email.com",
+      "name": "Jane Doe",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Communication"
+      ],
+      "experience_years": 5
+    },
+    "score": 100.0
+  },
+  {
+    "candidate": {
+      "email": "john.smith@email.com",
+      "name": "John Smith",
+      "skills": [
+        "Java",
+        "C++",
+        "Project Management"
+      ],
+      "experience_years": 2
+    },
+    "score": 20.0
+  },
+  {
+    "candidate": {
+      "email": "amara.okafor@email.com",
+      "name": "Amara Okafor",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "SQL",
+        "Communication"
+      ],
+      "experience_years": 7
+    },
+    "score": 100.0
+  }
+]

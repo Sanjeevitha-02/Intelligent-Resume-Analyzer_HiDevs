@@ -1,1 +1,4 @@
-# Add your project dependencies here
+# no external libraries required for a basic version
+# add these later if you want more power:
+# nltk
+# spacy

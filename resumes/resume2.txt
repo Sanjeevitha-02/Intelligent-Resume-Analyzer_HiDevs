@@ -1,0 +1,4 @@
+John Smith
+john.smith@email.com
+Skills: Java, C++, Project Management
+2 years of experience in software engineering

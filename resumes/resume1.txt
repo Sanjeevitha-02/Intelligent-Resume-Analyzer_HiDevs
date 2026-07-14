@@ -1,0 +1,4 @@
+Jane Doe
+jane.doe@email.com
+Skills: Python, SQL, Machine Learning, Communication
+5 years of experience in data analysis
